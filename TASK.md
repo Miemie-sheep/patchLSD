@@ -168,7 +168,7 @@ Data written out are as follows:
 | `PostLSD.txt` | Presented rewards post-LSD (0 indicates truncation) |
 
 #### Locally Stored Data
-The [Unity Application Persistent Data Path](https://docs.unity3d.com/ScriptReference/Application-persistentDataPath.html) is used to persist data on devices *(this path is also used on Web builds, but direct access is challenging)*.\
+The [Unity Application Persistent Data Path](https://docs.unity3d.com/ScriptReference/Application-persistentDataPath.html) is used to store data on devices *(this path is also used on Web builds, but direct access is challenging)*.\
 If you use the executables as provided in the releases (rather than building your own); with reference to the [device specific path](https://docs.unity3d.com/ScriptReference/Application-persistentDataPath.html) `<companyname> = ChildrenOfTheBandit` and `<productname> = PatchLSD`.
 
 
